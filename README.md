@@ -2,6 +2,8 @@
 
 **OpenGraphics** is a project established to replace the base graphics of Locomotion. The aim is to create a set of freely-useable graphics that can be used with [OpenLoco](https://github.com/OpenLoco/OpenLoco). This will help OpenLoco to be more accessible, as well as make it easier to add new features and content to the game.
 
+This repo is based on https://github.com/OpenRCT2/OpenGraphics
+
 ## Progress
 
 The current progress list can be found [here](https://docs.google.com/spreadsheets/d/1zyBDPd3A3Y6V_JwLgJM-HWvLoT4YG7c1Mf0cWVYPZGs/edit?gid=1386834576#gid=1386834576)
