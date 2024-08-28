@@ -26,10 +26,11 @@ Scenery objects and stalls are currently the most accessible object type to crea
 ## Requirements
 
 - Only use [public domain textures](https://www.cgbookcase.com/textures).
-- Save textures as JPG, and limit its size (1k should be plenty in most cases).
+- Save textures as PNG, and limit its size (1k should be plenty in most cases).
 - Refrain from using premade models.
-- Do not copy real life products (including rides). Look at how other games parody real life for inspiration, Planet Coaster is a good example of what is accepted.
-- Objects need to maintain the same size and features as the RCT2 variants.
+- AI-generated content of any kind is not allowed (textures, models, names, etc).
+- Do not copy real life products (including companies, vehicles, buildings, etc). Look at how other games parody real life for inspiration; Planet Coaster is a good example of what is accepted.
+- Objects need to maintain the same size and features as the original Locomotion objects.
 
 ## Community
 
