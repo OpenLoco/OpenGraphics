@@ -21,7 +21,7 @@ For most object types the most accurate and quickest way to create sprites is us
 Blender Render last available in [Blender 2.79](https://www.blender.org/download/previous-versions/) is the most accurate render engine (for its time) that we have access to as an open source project.
 You can use other software to create your models as well, as long as your main source file that you contribute to the project is a a Blender (.blend) file.
 
-Scenery objects and stalls are currently the most accessible object type to create 3D models for. Check out [the spreadsheet](https://docs.google.com/spreadsheets/d/1ljVeYxp8ijj5z4VuSa6Xo1-_p3wACdQCRudkvkLGApc/edit#gid=1082671812) to see what has already been made. Just mark an object as WIP, and add your name to the author field.
+Scenery objects and stalls are currently the most accessible object type to create 3D models for. Check out [the spreadsheet](https://docs.google.com/spreadsheets/d/1zyBDPd3A3Y6V_JwLgJM-HWvLoT4YG7c1Mf0cWVYPZGs/edit?gid=1386834576#gid=1386834576) to see what has already been made. Just mark an object as WIP, and add your name to the author field.
 
 ## Requirements
 
