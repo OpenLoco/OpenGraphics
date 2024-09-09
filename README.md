@@ -38,6 +38,49 @@ You can get in touch with us via the OpenLoco Discord server. There is a dedicat
 - Invitation link: https://discord.gg/Td2GPYqzpv
 - [![](https://img.shields.io/discord/689445672390361176?label=OpenLoco%2Fgraphics)](https://discordapp.com/channels/689445672390361176/1276903199885758535),
 
+## How to Contribute (for non-technical users)
+
+You will need a GitHub account to contribute to the repository in any manner. Please make one first if you haven't already.
+
+### GitHub Desktop
+
+1. Install GitHub Desktop.
+2. Fork OpenLoco/OpenGraphics to make a personal repository.
+
+![image](https://github.com/user-attachments/assets/6631275e-e7e7-444a-9850-fdd997adb5e8)
+
+3. Clone your personal repository.
+
+![image](https://github.com/user-attachments/assets/6ed7c863-d6f1-48d6-948e-a1fd5dc1b746)
+
+4. Make a new branch.
+
+  ![image](https://github.com/user-attachments/assets/2f834142-16c4-4de6-9684-b810207d070f)
+  
+5. Make your changes. They'll show up in GitHub Desktop.
+
+  ![image](https://github.com/user-attachments/assets/1d0a8137-ea09-4232-88a2-615226cc55c4)
+  
+6. Add/commit your changes.
+
+  ![image](https://github.com/user-attachments/assets/8c08bf07-14ef-42b1-a2fb-bcae4421f96c)
+  
+7. Publish your branch.
+
+  ![image](https://github.com/user-attachments/assets/9b60eaa0-8d2a-419a-8e16-7cfa222c86ad)
+  
+8. Open a pull request with OpenLoco/OpenGraphics.
+
+  ![image](https://github.com/user-attachments/assets/bad84247-b9db-4dd2-a7b8-ec5c7f3b4c43)
+
+9. It should look something like this in GitHub (online):
+
+![image](https://github.com/user-attachments/assets/8a6d03d5-f11c-48a3-ae84-6e429423372c)
+
+  
+10. Someone will review the pull request.
+11. If it passes review, it will be merged and you're done. If it doesn't you'll have to fix your changes, which is just repeating steps 5-7.
+
 ## License
 
 **OpenGraphics** is licensed under the GNU General Public License version 3.
