@@ -70,9 +70,14 @@ You can get in touch with us via the OpenLoco Discord server. There is a dedicat
 8. Open a pull request with OpenLoco/OpenGraphics.
 
   ![image](https://github.com/user-attachments/assets/bad84247-b9db-4dd2-a7b8-ec5c7f3b4c43)
+
+9. It should look something like this in GitHub (online):
+
+![image](https://github.com/user-attachments/assets/8a6d03d5-f11c-48a3-ae84-6e429423372c)
+
   
-9. Someone will review the pull request.
-10. If it passes review, it will be merged and you're done. If it doesn't you'll have to fix your changes, which is just repeating steps 5-7.
+10. Someone will review the pull request.
+11. If it passes review, it will be merged and you're done. If it doesn't you'll have to fix your changes, which is just repeating steps 5-7.
 
 ## License
 
