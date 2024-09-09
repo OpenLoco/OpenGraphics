@@ -40,6 +40,8 @@ You can get in touch with us via the OpenLoco Discord server. There is a dedicat
 
 ## How to Contribute (for non-technical users)
 
+You will need a GitHub account to contribute to the repository in any manner. Please make one first if you haven't already.
+
 ### GitHub Desktop
 
 1. Install GitHub Desktop.
