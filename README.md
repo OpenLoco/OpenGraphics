@@ -25,18 +25,26 @@ Scenery objects and buildings are currently the most accessible object type to c
 
 ## Requirements
 
-- All assets required to create the final sprite graphics need to be included in this repository. For 3D-rendered vehicles, this includes models, textures, UV maps, etc. If you are hand-painting the pixelart, for example for a building, then you would upload just the PNG files.
-- 3D models should be made from scratch, or, if you have an existing model that you personally created from scratch, you can use that.
-- Only use [public domain textures](https://www.cgbookcase.com/textures).
-- Save textures as PNG, and limit its size (1k should be plenty in most cases).
-- AI-generated content of any kind is not allowed (textures, models, names, etc).
-- Objects need to maintain the same image size size and rough visual features as the original Locomotion objects. The stats may change but may be identical or similar.
+- All assets required to create the final sprite graphics need to be included in this repository. For 3D-rendered vehicles, this includes models, textures, UV maps, etc. If you are hand-painting the pixelart, for example for a building, then you would upload just the PNG files.- 
 - Do not copy real life products (including companies, vehicles, buildings, etc). Look at how other games parody real life for inspiration; Planet Coaster and OpenTTD are good examples of what is accepted.
-- Names need to be
+- AI-generated content of any kind is not allowed (textures, models, names, etc).
+- Overall object
+  - Needs to maintain the same image size size and rough visual features as the original Locomotion objects.
+  - Visual fidelity should remain the same as vanilla.
+  - Colour palette should remain the same as vanilla.
+  - The stats may change but may be identical or similar.
+- 3D Models
+  - Models should be made from scratch, or, if you have an existing model that you personally created from scratch, you can use that.
+  - While we're still deciding on file formats, OBJ or glTF files are probably best for now.
+  - Scale is *roughly* 10m per 1 in-game tile *for ground vehicles* (buses, trucks, trains, trams). You should be able to fit 4 10x2.5m buses in a single tile. This is a *rough* guide as there is no single true scale. Ships and aircraft have a different scale in the base game (check out the A380!) and no rough scale has been assigned to these yet.
+  - One model per file.
+- Textures 
+  - Only use [public domain textures](https://www.cgbookcase.com/textures).
+  - Save textures as PNG, and limit its size (1k should be plenty in most cases).
+- Names
   -  New. See [OpenTTD's new vehicle names](https://wiki.openttd.org/en/Manual/Trains) as a reference.
   -  Not the same as existing base-game names, for example we cannot call an object `114` since that exists in the base game.
   -  Not the same as real-life vehicles, for example you can't make a truck called `Cybertruck`.
--  Scale is *roughly* 10m per 1 in-game tile *for ground vehicles* (buses, trucks, trains, trams). You should be able to fit 4 10x2.5m buses in a single tile. This is a *rough* guide as there is no single true scale. Ships and aircraft have a different scale in the base game (check out the A380!) and no rough scale has been assigned to these yet.
 
 Note: many of these requirements are to avoid potential legal issues. If you are a copyright lawyer and can provide further advice, please get in touch with us!
 
