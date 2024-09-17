@@ -48,6 +48,18 @@ Scenery objects and buildings are currently the most accessible object type to c
 
 Note: many of these requirements are to avoid potential legal issues. If you are a copyright lawyer and can provide further advice, please get in touch with us!
 
+### Vehicles
+
+This is a list of things we need to support for everything to work nicely for vehicles:
+- Bogies (I think we will need to have a defined hierarchy of collections)
+- Animations (possibly already works with plugin but haven't fully looked into it)
+- Cargo sprites (basically special animations)
+- Roll (basically special animations)
+- Symmetry optimisation
+- Rotation frame count configurable
+- Braking lights
+- Airplane shadows
+
 ## Community
 
 You can get in touch with us via the OpenLoco Discord server. There is a dedicated OpenGraphics channel that can be used to discuss this sub-project.
