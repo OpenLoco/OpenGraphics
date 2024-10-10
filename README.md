@@ -16,12 +16,10 @@ Current blockers
 
 ## Getting Started
 
-For most object types the most accurate and quickest way to create sprites is using the [RCT Graphics Helper add-on for Blender 2.79](https://github.com/oli414/Blender-RCT-Graphics)
+For most object types the most accurate and quickest way to create sprites is using the [OpenLoco Graphics Helper add-on for Blender 2.79](https://github.com/OpenLoco/Blender-Loco-Graphics). The plugin is forked from [RCT Graphics Helper](https://github.com/oli414/Blender-RCT-Graphics) and there is useful information still in their wiki [RCT Graphics Helper Wiki](https://github.com/oli414/Blender-RCT-Graphics/wiki) that applies for Locomotion as well.
 
 Blender Render last available in [Blender 2.79](https://www.blender.org/download/previous-versions/) is the most accurate render engine (for its time) that we have access to as an open source project.
 You can use other software to create your models as well, as long as your main source file that you contribute to the project is a a Blender (.blend) file.
-
-Scenery objects and buildings are currently the most accessible object type to create 3D models for. Check out [the spreadsheet](https://docs.google.com/spreadsheets/d/1zyBDPd3A3Y6V_JwLgJM-HWvLoT4YG7c1Mf0cWVYPZGs/edit?gid=1386834576#gid=1386834576) to see what has already been made. Just mark an object as WIP, and add your name to the author field.
 
 ## Requirements
 
@@ -50,15 +48,7 @@ Note: many of these requirements are to avoid potential legal issues. If you are
 
 ### Vehicles
 
-This is a list of things we need to support for everything to work nicely for vehicles:
-- Bogies (I think we will need to have a defined hierarchy of collections)
-- Animations (possibly already works with plugin but haven't fully looked into it)
-- Cargo sprites (basically special animations)
-- Roll (basically special animations)
-- Symmetry optimisation
-- Rotation frame count configurable
-- Braking lights
-- Airplane shadows
+The plugin should be able to handle most vehicle related sprite creation that is required for the project. The exception is cargo sprites which some vehicle use. We are still working on improving how to handle them. Further work is required for the plugin to handle Vehicle meta data generation (e.g. bogie location, exahust location).
 
 ## Community
 
@@ -111,4 +101,4 @@ You will need a GitHub account to contribute to the repository in any manner. Pl
 
 ## License
 
-**OpenGraphics** is licensed under the GNU General Public License version 3.
+**OpenGraphics** is licensed under the MIT license.
