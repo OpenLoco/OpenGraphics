@@ -31,6 +31,7 @@ You can use other software to create your models as well, as long as your main s
   - Visual fidelity should remain the same as vanilla.
   - Colour palette should remain the same as vanilla.
   - The stats may change but may be identical or similar.
+  - Internal DAT name should be prefixed with `OG`. Remove the last 1-2 characters if the name is already 7 or 8 characters, eg `LIVESTCK` -> `OGLIVEST`
 - 3D Models
   - Models should be made from scratch, or, if you have an existing model that you personally created from scratch, you can use that.
   - While we're still deciding on file formats, OBJ or glTF files are probably best for now.
