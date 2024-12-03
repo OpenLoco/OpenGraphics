@@ -2,11 +2,11 @@
 
 **OpenGraphics** is a project established to replace the base graphics of Locomotion. The aim is to create a set of freely-useable graphics that can be used with [OpenLoco](https://github.com/OpenLoco/OpenLoco). This will help OpenLoco to be more accessible, as well as make it easier to add new features and content to the game.
 
-This repo is based on https://github.com/OpenRCT2/OpenGraphics
+This repo is based on https://github.com/OpenRCT2/OpenGraphics.
 
 ## Progress
 
-The current progress list can be found [here](https://docs.google.com/spreadsheets/d/1zyBDPd3A3Y6V_JwLgJM-HWvLoT4YG7c1Mf0cWVYPZGs/edit?gid=1386834576#gid=1386834576)
+The current progress list can be found [here](https://docs.google.com/spreadsheets/d/1Ar3_4SczzcS0fGtym5jfffUg8hnTzr-LwasNGV0AVbA/edit?usp=sharing).
 
 Our current focus is on the following object categories:
 - Vehicles
@@ -31,7 +31,10 @@ You can use other software to create your models as well, as long as your main s
   - Visual fidelity should remain the same as vanilla.
   - Colour palette should remain the same as vanilla.
   - The stats may change but may be identical or similar.
-  - Internal DAT name should be prefixed with `OG`. Remove the last 1-2 characters if the name is already 7 or 8 characters, eg `LIVESTCK` -> `OGLIVEST`
+  - Filename should be `OG_<originalname>.dat`, for example `4F.dat` becomes `OG_4F.dat`.
+  - Internal DAT name should be prefixed with `OG`.
+    - Remove the last 1-2 characters if the name is already 7 or 8 characters, eg `LIVESTCK` -> `OGLIVEST`.
+    - Remove another character if a number is needed to disambiguate. For example `BLDALP1`, `BLDALP2`, etc all the way to `BLDALP11` will all map to `OGBLDALP` by default. These should become `OGBLDAL1`, ..., `OGBLDA11`, etc.
 - 3D Models
   - Models should be made from scratch, or, if you have an existing model that you personally created from scratch, you can use that.
   - While we're still deciding on file formats, OBJ or glTF files are probably best for now.
