@@ -18,8 +18,9 @@ Current blockers
 
 For most object types the most accurate and quickest way to create sprites is using the [OpenLoco Graphics Helper add-on for Blender 2.79](https://github.com/OpenLoco/Blender-Loco-Graphics). The plugin is forked from [RCT Graphics Helper](https://github.com/oli414/Blender-RCT-Graphics) and there is useful information still in their wiki [RCT Graphics Helper Wiki](https://github.com/oli414/Blender-RCT-Graphics/wiki) that applies for Locomotion as well.
 
-Blender Render last available in [Blender 2.79](https://www.blender.org/download/previous-versions/) is the most accurate render engine (for its time) that we have access to as an open source project.
+Blender Render, last available in [Blender 2.79](https://www.blender.org/download/previous-versions/), is the most accurate render engine (for its time) that we have access to as an open source project.
 You can use other software to create your models as well, as long as your main source file that you contribute to the project is a a Blender (.blend) file.
+Of course, if someone is able to set up a modern Blender render pipeline in Blender 4+ and get reasonable sprite output, this would be hugely appreciated as working on old tools always has drawbacks.
 
 ## Requirements
 
@@ -38,10 +39,10 @@ You can use other software to create your models as well, as long as your main s
 - 3D Models
   - Models should be made from scratch, or, if you have an existing model that you personally created from scratch, you can use that.
   - While we're still deciding on file formats, OBJ or glTF files are probably best for now.
-  - Scale is *roughly* 10m per 1 in-game tile *for ground vehicles* (buses, trucks, trains, trams). You should be able to fit 4 10x2.5m buses in a single tile. This is a *rough* guide as there is no single true scale. Ships and aircraft have a different scale in the base game (check out the A380!) and no rough scale has been assigned to these yet.
+  - Scale is *roughly* 10m per 1 in-game tile *for ground vehicles* (buses, trucks, trains, trams). You should be able to fit four(4) 10x2.5m buses in a single tile. This is a *rough* guide as there is no single true scale. Ships and aircraft have a different scale in the base game (check out the A380!) and no rough scale has been assigned to these yet.
   - One model per file.
 - Textures 
-  - Only use [public domain textures](https://www.cgbookcase.com/textures).
+  - Only use textures you have created yourself from scratch, or otherwise use public domain textures, such as from [CG Bookcase](https://www.cgbookcase.com/textures).
   - Save textures as PNG, and limit its size (1k should be plenty in most cases).
 - Names
   -  New. See [OpenTTD's new vehicle names](https://wiki.openttd.org/en/Manual/Trains) as a reference.
