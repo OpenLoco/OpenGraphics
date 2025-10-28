@@ -24,11 +24,13 @@ Of course, if someone is able to set up a modern Blender render pipeline in Blen
 
 ## Requirements
 
-- All assets required to create the final sprite graphics need to be included in this repository. For 3D-rendered vehicles, this includes models, textures, UV maps, etc. If you are hand-painting the pixelart, for example for a building, then you would upload just the PNG files.- 
+- All assets required to create the final sprite graphics need to be included in this repository. For 3D-rendered vehicles, this includes models, textures, UV maps, etc. If you are hand-painting the pixelart, for example for a building, then you would upload just the PNG files.
 - Do not copy real life products (including companies, vehicles, buildings, etc). Look at how other games parody real life for inspiration; Planet Coaster and OpenTTD are good examples of what is accepted.
 - AI-generated content of any kind is not allowed (textures, models, names, etc).
 - Overall object
   - Needs to maintain the same image size size and rough visual features as the original Locomotion objects.
+  - Do not make a 1-1 recreation of the vanilla object. We want to be able to use both vanilla and OG versions of an object together in the same game, and be visually distinct enmough to tell them apart.
+  - Do not make a 1-1 recreation of a real-world train. We want to completely avoid copyright/trademake infringement s o exercising creative freedom is good here.
   - Visual fidelity should remain the same as vanilla.
   - Colour palette should remain the same as vanilla.
   - The stats may change but may be identical or similar.
@@ -48,6 +50,8 @@ Of course, if someone is able to set up a modern Blender render pipeline in Blen
   -  New. See [OpenTTD's new vehicle names](https://wiki.openttd.org/en/Manual/Trains) as a reference.
   -  Not the same as existing base-game names, for example we cannot call an object `114` since that exists in the base game.
   -  Not the same as real-life vehicles, for example you can't make a truck called `Cybertruck`.
+  -  Parody names should be fine. For example we can't use "Class 55 Deltic" but you could call it the "Epsilic".
+  -  Names of files should not contain any unrelated text, for example `train-body-v3_texture.png` should just be `train-body.png.`
 
 Note: many of these requirements are to avoid potential legal issues. If you are a copyright lawyer and can provide further advice, please get in touch with us!
 
