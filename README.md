@@ -51,6 +51,7 @@ Of course, if someone is able to set up a modern Blender render pipeline in Blen
   -  Not the same as existing base-game names, for example we cannot call an object `114` since that exists in the base game.
   -  Not the same as real-life vehicles, for example you can't make a truck called `Cybertruck`.
   -  Parody names should be fine. For example we can't use "Class 55 Deltic" but you could call it the "Epsilic".
+  -  Names of files should not contain any unrelated text, for example `train-body-v3_texture.png` should just be `train-body.png.`
 
 Note: many of these requirements are to avoid potential legal issues. If you are a copyright lawyer and can provide further advice, please get in touch with us!
 
