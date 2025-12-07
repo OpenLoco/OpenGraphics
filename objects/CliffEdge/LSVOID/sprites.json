@@ -1,0 +1,562 @@
+[
+  {
+    "path": "0.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "1.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "2.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "3.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "4.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "5.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "6.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "7.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "8.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "9.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "10.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "11.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "12.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "13.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "14.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "15.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "16.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "17.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "18.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "19.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "20.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "21.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "22.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "23.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "24.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "25.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "26.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "27.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "28.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "29.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "30.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "31.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "32.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "33.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "34.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "35.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "36.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "37.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "38.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "39.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "40.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "41.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "42.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "43.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "44.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "45.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "46.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "47.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "48.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "49.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "50.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "51.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "52.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "53.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "54.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "55.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "56.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "57.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "58.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "59.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "60.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "61.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "62.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "63.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 1,
+    "name": null
+  },
+  {
+    "path": "64.png",
+    "x": 0,
+    "y": 0,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "65.png",
+    "x": 0,
+    "y": 0,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "66.png",
+    "x": 0,
+    "y": -1,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "67.png",
+    "x": -31,
+    "y": 0,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "68.png",
+    "x": -32,
+    "y": 0,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "69.png",
+    "x": -32,
+    "y": -1,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  }
+]
