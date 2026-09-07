@@ -10,10 +10,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Prepare Output Directories
-        run: for d in objects/*/ ; do mkdir -p ./artifacts/$d; done;
       - name: Copy Objects to Output Structure
-        run: for d in objects/*/ ; do find "$d" -name *.dat -exec cp {} ./artifacts/$d \;; done;
+        run: |
+          find "objects" -mindepth 2 -maxdepth 2 -type d | while IFS= read -r category_dir; do
+              category="$(basename "$category_dir")"
+              dst_dir="./artifacts/objects/$category"
+
+              mkdir -p "$dst_dir"
+              find "$category_dir" -type f \( -iname '*.dat' \) | while IFS= read -r dat_file; do
+                  filename="$(basename "$dat_file")"
+                  cp -f "$dat_file" "$dst_dir/$filename"
+              done
+          done
       - name: Package Objects
         run: cd artifacts/objects; zip ../../objects.zip ./* -r; cd ../..
       - name: Hash Objects
