@@ -1,0 +1,994 @@
+[
+  {
+    "path": "0.png",
+    "x": 0,
+    "y": 0,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "1.png",
+    "x": -32,
+    "y": -16,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "2.png",
+    "x": 0,
+    "y": -16,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "3.png",
+    "x": -32,
+    "y": -1,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "4.png",
+    "x": -32,
+    "y": -16,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "5.png",
+    "x": -32,
+    "y": -16,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "6.png",
+    "x": -32,
+    "y": -27,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "7.png",
+    "x": 0,
+    "y": -27,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "8.png",
+    "x": -32,
+    "y": -12,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "9.png",
+    "x": -32,
+    "y": -27,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "10.png",
+    "x": -32,
+    "y": -27,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "11.png",
+    "x": -32,
+    "y": -16,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "12.png",
+    "x": -32,
+    "y": -9,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "13.png",
+    "x": -32,
+    "y": -9,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "14.png",
+    "x": 0,
+    "y": -25,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "15.png",
+    "x": -2,
+    "y": -25,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "16.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "17.png",
+    "x": -30,
+    "y": -1,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "18.png",
+    "x": -2,
+    "y": -31,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "19.png",
+    "x": -30,
+    "y": -17,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "20.png",
+    "x": 0,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "21.png",
+    "x": -2,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "22.png",
+    "x": -28,
+    "y": -1,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "23.png",
+    "x": -30,
+    "y": -1,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "24.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "25.png",
+    "x": -2,
+    "y": -1,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "26.png",
+    "x": -30,
+    "y": -31,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "27.png",
+    "x": -2,
+    "y": -17,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "28.png",
+    "x": -30,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "29.png",
+    "x": -29,
+    "y": -15,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "30.png",
+    "x": -2,
+    "y": -1,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "31.png",
+    "x": -1,
+    "y": -1,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "32.png",
+    "x": -32,
+    "y": -2,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "33.png",
+    "x": 24,
+    "y": -2,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "34.png",
+    "x": -32,
+    "y": -18,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "35.png",
+    "x": 24,
+    "y": -18,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "36.png",
+    "x": -32,
+    "y": -16,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "37.png",
+    "x": 15,
+    "y": 5,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "38.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "39.png",
+    "x": -32,
+    "y": -24,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "40.png",
+    "x": -2,
+    "y": -9,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "41.png",
+    "x": -32,
+    "y": -27,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "42.png",
+    "x": -32,
+    "y": -16,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "43.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "44.png",
+    "x": -30,
+    "y": 5,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "45.png",
+    "x": -32,
+    "y": -24,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "46.png",
+    "x": -2,
+    "y": -9,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "47.png",
+    "x": -32,
+    "y": -27,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "48.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "49.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "50.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "51.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "52.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "53.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "54.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "55.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "56.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "57.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "58.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "59.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "60.png",
+    "x": -32,
+    "y": -16,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "61.png",
+    "x": -30,
+    "y": 5,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "62.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "63.png",
+    "x": -2,
+    "y": -24,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "64.png",
+    "x": -32,
+    "y": -9,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "65.png",
+    "x": -32,
+    "y": -27,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "66.png",
+    "x": -32,
+    "y": -16,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "67.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "68.png",
+    "x": -2,
+    "y": 5,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "69.png",
+    "x": -2,
+    "y": -24,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "70.png",
+    "x": -32,
+    "y": -9,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "71.png",
+    "x": -32,
+    "y": -27,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "72.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "73.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "74.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "75.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "76.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "77.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "78.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "79.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "80.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "81.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "82.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "83.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "84.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "85.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "86.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "87.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "88.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "89.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "90.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "91.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "92.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "93.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "94.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "95.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "96.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "97.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "98.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "99.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "100.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "101.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "102.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "103.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "104.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "105.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "106.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "107.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "108.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "109.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "110.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "111.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "112.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "113.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "114.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "115.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "116.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "117.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "118.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "119.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "120.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "121.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "122.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  },
+  {
+    "path": "123.png",
+    "x": 31,
+    "y": 30,
+    "zoomOffset": 0,
+    "flags": 5,
+    "name": null
+  }
+]
