@@ -30,7 +30,7 @@ Of course, if someone is able to set up a modern Blender render pipeline in Blen
 - Overall object
   - Needs to maintain the same rough visual features as the original Locomotion objects, as well as being roughly the same size.
   - Do not make a 1-1 recreation of the vanilla object. We want to be able to use both vanilla and OG versions of an object together in the same game, and be visually distinct enough to tell them apart.
-  - Do not make a 1-1 recreation of a real-world train. We want to completely avoid copyright/trademake infringement s o exercising creative freedom is good here.
+  - Do not make a 1-1 recreation of a real-world train, bus, truck, or any other object. We want to completely avoid copyright/trademake infringement issues so exercising creative freedom is good here.
   - Visual fidelity should remain the same as vanilla.
   - Colour palette should remain the same as vanilla.
   - The stats may change but may be identical or similar.
